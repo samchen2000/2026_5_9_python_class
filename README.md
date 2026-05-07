@@ -20,11 +20,11 @@
 - 115/07/11	13:30~16:30	專案總結與部署概念 1.整理分析報告與發現 2.將統計資料發佈到網站上(新加坡的雲端網路服務商)	
 
 ### 上課 Meet :
-https://meet.google.com/nnj-tzex-mwj
+
 
 ### 上課 講義 :
-https://github.com/roberthsu2003/LLMs_Raspberry
+
 
 #### WiFi SSID：A590301 PW：A590301AA
 
-#### raspberry name : pi4Sam0216 user name : pi password : raspberry
+#### raspberry name : ________ , user name : __________ ,  password : ___________

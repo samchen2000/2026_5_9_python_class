@@ -20,10 +20,10 @@
 - 115/07/11	13:30~16:30	專案總結與部署概念 1.整理分析報告與發現 2.將統計資料發佈到網站上(新加坡的雲端網路服務商)	
 
 ### 上課 Meet :
-
+https://meet.google.com/oam-rfvj-egs
 
 ### 上課 講義 :
-
+https://github.com/roberthsu2003/__2026_05_09_chihlee_python__
 
 #### WiFi SSID：A590301 PW：A590301AA
 

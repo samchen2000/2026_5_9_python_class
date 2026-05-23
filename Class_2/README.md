@@ -130,6 +130,9 @@ cd /d "D:\IQ app\GitHUB\2026_5_9_python_class\Class_2\lesson1"
 ```
 
 ## 2. 安裝 git
+- 設定
+- git config --global user.name "sam_class"
+- git config --global user.email "your.email@exampl"
 ### 回家學習心得 :  
 1. uv
 - 管理多個 Python 版本（類似 pyenv）。

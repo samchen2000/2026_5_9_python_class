@@ -1,7 +1,7 @@
 ## 2026/5/16 課程
 - 物件導向與模組應用-Python物件和類別	
 - 使用Requests獲取開放資料-使用Python requests套件下載政府開放平台資料		
-### 2020/5/16 上課影片
+### 2026/5/16 上課影片
 #### 2026_5_16_早上
 https://www.youtube.com/watch?v=Fnd2LahWlk8
 #### 2026_5_16_下午

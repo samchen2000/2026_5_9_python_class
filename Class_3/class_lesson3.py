@@ -25,6 +25,7 @@ RED = "#EF4444"
 GREEN = "#22C55E"
 BLUE = "#38BDF8"
 PURPLE = "#A855F7"
+GARY = "#747474"
 
 # 遊戲資料
 answer = random.randint(1, 100)

@@ -13,6 +13,10 @@ https://youtube.com/live/opOrhlsmpGk
 4. continue
 5. try: & except:
 ### 上課筆記 :  
-
+### 使用VS code 上傳 git
+```
+git config --global user.name
+git config --global user.email
+```
 ### 回家學習心得 :  
 1. 嘗試使用AI 幫忙設計一個猜數字遊戲,盡量使用GUI 介面.

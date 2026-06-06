@@ -9,7 +9,20 @@
 ### 上課內容 :  
 
 ### 上課筆記 :  
-
+1. 要確定執行主程式
+```python
+if __name__ == '__main__':
+```
+2. 在 uv 下安裝 requests
+```
+uv add requests
+```
+3. 台北市 YouBike2.0臺北市公共自行車即時資訊
+```
+https://data.taipei/dataset/detail?id=c6bc8aed-557d-41d5-bfb1-8da24f78f2fb
+json 檔案
+https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json
+``` 
 ### 回家學習心得 :  
 ### 1. 先行學習 class 的方式.
 ### 用汽車生產來做比喻:

@@ -23,6 +23,12 @@ https://data.taipei/dataset/detail?id=c6bc8aed-557d-41d5-bfb1-8da24f78f2fb
 json 檔案
 https://tcgbusfs.blob.core.windows.net/dotapp/youbike/v2/youbike_immediate.json
 ``` 
+4. 在vu 下安裝 pandas
+```
+uv add pandas
+```
+5. 
+import requests
 ### 回家學習心得 :  
 ### 1. 先行學習 class 的方式.
 ### 用汽車生產來做比喻:

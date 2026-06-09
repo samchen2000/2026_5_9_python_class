@@ -1,3 +1,20 @@
+#------------------------------------------------------------#
+#main()
+# ├─ requests.get()
+# ├─ response.json()
+# ├─ pd.DataFrame()
+# └─ export_to_pdf()
+#      ├─ 選取欄位
+#      ├─ 建立表格
+#      ├─ 分頁
+#      └─ 輸出 PDF
+#------------------------------------------------------------#
+# 這個程式的功能:
+# 透過 requests 從臺北市 YouBike API 下載即時資料。
+# 將 JSON 資料轉成 pandas.DataFrame。
+# 呼叫 export_to_pdf() 將資料輸出成 PDF 報表。
+# PDF 會使用 reportlab 建立橫向 A4、支援中文字型、分頁顯示表格資料。
+
 import requests
 from requests import Response
 import pandas as pd

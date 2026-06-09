@@ -3,9 +3,9 @@
 - 數據整理-資料整理和使用前準備
 ### 2020/6/6 上課影片
 #### 2026_6_6_早上
-
+https://www.youtube.com/watch?v=liCGUFj2qyQ
 #### 2026_6_6_下午
-
+https://youtube.com/live/OXX6GATTqTY
 ### 上課內容 :  
 
 ### 上課筆記 :  

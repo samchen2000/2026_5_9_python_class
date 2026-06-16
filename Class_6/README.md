@@ -3,9 +3,9 @@
 - 數據整理與重塑-群組資料和群組運算
 ### 2020/6/13 上課影片
 #### 2026_6_13_早上
-
+https://youtube.com/live/V1lOT_8hTCY
 #### 2026_6_13_下午
-
+https://youtube.com/live/pPNPDGTg5XY
 ### 上課內容 :  
 
 ### 上課筆記 :  

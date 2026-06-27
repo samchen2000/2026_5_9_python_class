@@ -1,0 +1,7 @@
+numpy==2.5.0
+opencv-python==4.13.0.92
+scikit-image==0.26.0
+matplotlib==3.11.0
+pandas==3.0.3
+reportlab==5.0.0
+requests==2.34.2

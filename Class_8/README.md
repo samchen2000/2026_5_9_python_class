@@ -7,7 +7,11 @@
 #### 2026_7_4_下午
 
 ### 上課內容 :  
-
+1. 安裝 jupyter lab 版本
+```
+uv add jupyter
+uv run jupyter lab
+```
 ### 上課筆記 :  
 
 ### 回家學習心得 :  

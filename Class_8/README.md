@@ -12,6 +12,16 @@
 uv add jupyter
 uv run jupyter lab
 ```
+2. 相關係數 (correlation)
+是用來衡量兩個變數之間「線性關係」的方向與強度的統計指標，最常用的是皮爾森相關係數（Pearson correlation），通常以符號 
+𝑟
+r 或 
+𝜌
+ρ 表示。
+
+3. 共變係數 (covariance)
+
+4. yfinance 是一個 Python 套件，它提供了一種簡單的方法來從 Yahoo 財經獲取金融數據。這個套件非常適合那些需要進行股票市場分析、財務數據探索或建立投資策略的程式開發人員和數據分析師。
 ### 上課筆記 :  
 
 ### 回家學習心得 :  

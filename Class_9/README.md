@@ -5,9 +5,9 @@
 - 專案總結與部署概念 1.整理分析報告與發現 2.將統計資料發佈到網站上(新加坡的雲端網路服務商)	
 ### 2020/7/11 上課影片
 #### 2026_7_11_早上 
-
+https://www.youtube.com/watch?v=-mIjCyINGcw
 #### 2026_7_11_下午
-
+https://www.youtube.com/watch?v=nGJs78vzE84
 ### 上課內容 :  
 
 ### 上課筆記 :  

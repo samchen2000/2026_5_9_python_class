@@ -3,9 +3,9 @@
 - 專案資料清理與整合 1.針對收集到的原始資料進行合併與清理	
 ### 2020/7/4 上課影片
 #### 2026_7_4_早上
-
+https://www.youtube.com/watch?v=YlV_waBSuMk
 #### 2026_7_4_下午
-
+https://www.youtube.com/watch?v=jQNJ9nSRPnE
 ### 上課內容 :  
 1. 安裝 jupyter lab 版本
 ```
